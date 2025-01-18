@@ -3,7 +3,7 @@
 
 FYI: It's just a GitHub metric showing the most used languages on my profile. The source is: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guizbert&size_weight=0.5&count_weight=0.5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guizbert&size_weight=0.5&count_weight=0.5&theme=dracula&langs_count=6)
 
 <h3 align="left">Get in touch ☕</h3>
 
